@@ -5,7 +5,7 @@ Installere Java
 -	Installer på maskinen.
 
 Installere Arkadukt 2
--	Last ned [filer/Arkadukt2.tar](https://github.com/joergen-vs/arkadukt2/blob/d1cbf19e6daab2cfb8efe4df5579407705ad3eb6/filer/Arkadukt2.tar).
+-	Last ned [filer/Arkadukt2.tar](https://github.com/joergen-vs/arkadukt2/blob/d1cbf19e6daab2cfb8efe4df5579407705ad3eb6/filer/Arkadukt2.tar?raw=true).
 -	Installer på maskinen.
 -	Gå til installasjonsmappen, normalt C:\Program Files (x86)\arkadukt2. Finn arkadukt2.conf, under mappen ‘etc’.
  
