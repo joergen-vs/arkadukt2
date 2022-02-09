@@ -1,5 +1,5 @@
 # arkadukt2
-Installasjon av Arkade og Arkadukt på Windows-maskin
+Installasjon av Arkadukt på Windows-maskin
 Installere Java
 -	Last ned Java SDK versjon 7u79 og siste versjon (p.d. 8u65). Begge kan finnes ved å søke etter «Java SDK».
 -	Installer på maskinen.
